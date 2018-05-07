@@ -6,7 +6,13 @@
 
 ## Session Ideas
 
-* [Session Ideas](sessions/session-ideas.md)
-* [Unresolved Issues in AOSP](sessions/friedger-unresolved-issues-in-aosp.md)
-* [Impact of Google's Policies](sessions/friedger-policies.md)
+* [Session Ideas](session-ideas/session-ideas.md)
+* Unresolved Issues in AOSP
+* [Impact of Google's Policies](session-ideas/impact-of-googles-policies.md)
+
+## Panels
+
+* Rx Must Die
+* Cross Platform on Android
+* Rise of the Machines
 
