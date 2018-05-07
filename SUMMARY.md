@@ -12,7 +12,7 @@
 
 ## Panels
 
-* Rx Must Die
+* [Rx Must Die](panels/rx-must-die.md)
 * Cross Platform on Android
 * Rise of the Machines
 
