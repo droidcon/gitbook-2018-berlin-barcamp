@@ -13,6 +13,6 @@
 ## Panels
 
 * [Rx Must Die](panels/rx-must-die.md)
-* Cross Platform on Android
-* Rise of the Machines
+* [Cross Platform on Android](panels/cross-platform-on-android.md)
+* [Rise of the Machines](panels/ai-automation.md)
 
