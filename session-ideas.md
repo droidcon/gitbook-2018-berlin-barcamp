@@ -10,7 +10,5 @@ This page should give attendees an overview about what to expect from Day One. I
 
 ### Ideas
 
-[Friedger Müffke: Google Policies and the impact on developers](sessions/friedger-policies.md)
-
-
+[Friedger Müffke: Google Policies and the impact on developers](https://github.com/droidcon/gitbook-2018-berlin-barcamp/tree/234545b5c2f885dccb393def094452e3823b224d/sessions/friedger-policies.md)
 

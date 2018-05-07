@@ -14,7 +14,7 @@ To make the day more sustainable, this booklet contains summaries, links, and re
 
 Thank you to all contributors! See the list at [Github](https://github.com/droidcon/gitbook-2018-berlin-barcamp/network/members).
 
-Read the [booklet from 2015](https://droidcon.gitbook.io/2015-berlin-barcamp),   
+Read the [booklet from 2015](https://droidcon.gitbook.io/2015-berlin-barcamp),  
 [from 2016](https://droidcon.gitbook.io/2016-berlin-barcamp),  
 and [from 2017](https://droidcon.gitbook.io/2017-berlin-barcamp)
 
