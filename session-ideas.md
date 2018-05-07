@@ -10,7 +10,7 @@ This page should give attendees an overview about what to expect from Day One. I
 
 ### Ideas
 
-Friedger Müffke: Google Policies and the impact on developers
+[Friedger Müffke: Google Policies and the impact on developers](sessions/friedger-policies.md)
 
 
 
