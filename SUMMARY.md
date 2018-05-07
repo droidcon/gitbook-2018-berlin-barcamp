@@ -7,5 +7,6 @@
 ## Session Ideas
 
 * [Session Ideas](sessions/session-ideas.md)
-* [Unresolved Issues in AOSP](sessions/unresolved-issues-in-aosp.md)
+* [Unresolved Issues in AOSP](sessions/friedger-unresolved-issues-in-aosp.md)
+* [Impact of Google's Policies](sessions/friedger-policies.md)
 
