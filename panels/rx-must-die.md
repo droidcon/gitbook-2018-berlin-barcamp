@@ -1,14 +1,19 @@
+# Rx Must Die!? 
+
+Description: 
 ---
-description: Do we overuse Rx Java? Do Coroutines and LiveData replace it?
+Is the learning curve of Rx too steep?
+Do we overuse Rx Java?
+Is LiveData an alternative?
+Do Coroutines and Kotlin build-in features make it obsolete?
+
+Panel host:
 ---
+Kevin McDonagh
 
-# Rx Must Die
-
-Do we overuse Rx Java? Do Coroutines and LiveData replace it?
-
-A panel discussion with
-
+Panelists:
+---
 * Joannes Orgis, Microsoft Todo
-* Ivan Morgillo
+* Marvin Ramin, Soundcloud
+* Ivan Morgillo, Asanarebel
 * \(and more to be announced\)
-
