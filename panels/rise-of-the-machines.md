@@ -1,7 +1,3 @@
----
-description: The Future of Programming. How will AI change our jobs?
----
-
 # Rise of the Machines
 
 The Future of Programming. How will AI change our jobs?
