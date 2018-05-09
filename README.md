@@ -6,9 +6,9 @@ description: 'Notes, resources, sessions of Day One at Droidcon Berlin 2018'
 
 ![](.gitbook/assets/droidcon2018.jpg)
 
-The first day of [Droidcon Berlin](http://droidcon.de) is traditionally an interactive day. In previous years it was a full day [barcamp](http://barcamp.org). This year there will be a mix of workshops, panel discussions, and your sessions.
+The first day of [droidcon Berlin](http://droidcon.de) is traditionally an interactive day. In previous years it was a full day [barcamp](http://barcamp.org). This year there will be a mix of workshops, panel discussions, and your sessions.
 
-Bring your topics, stories, bugs, apps and laptop!
+Bring your topics, stories, bugs, apps and laptops!
 
 To make the day more sustainable, this booklet contains summaries, links, and resources about the sessions.
 
