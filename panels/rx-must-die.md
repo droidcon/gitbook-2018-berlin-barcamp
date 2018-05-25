@@ -10,12 +10,13 @@ Is the learning curve of Rx too steep? Do we overuse Rx Java? Is LiveData an alt
 
 ## Panel host:
 
-Kevin McDonagh
+Kevin McDonagh, Novoda
 
 ## Panelists:
 
 * Joannes Orgis, Microsoft Todo
 * Marvin Ramin, Soundcloud
 * Ivan Morgillo, Asanarebel
-* \(and more to be announced\)
+* Hasan Hosgel, Lab1886 - Mercedes-Benz
+* \(one more to be announced\)
 
