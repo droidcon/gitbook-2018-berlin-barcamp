@@ -18,5 +18,5 @@ Kevin McDonagh, Novoda
 * Marvin Ramin, Soundcloud
 * Ivan Morgillo, Asanarebel
 * Hasan Hosgel, Lab1886 - Mercedes-Benz
-* \(one more to be announced\)
+* Ash Davis, ImmobilienScout24
 
