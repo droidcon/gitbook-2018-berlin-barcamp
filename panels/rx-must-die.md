@@ -15,7 +15,6 @@ Kevin McDonagh, Novoda
 ## Panelists:
 
 * Joannes Orgis, Microsoft Todo
-* Marvin Ramin, Soundcloud
 * Ivan Morgillo, Asanarebel
 * Hasan Hosgel, Lab1886 - Mercedes-Benz
 * Ash Davis, ImmobilienScout24
