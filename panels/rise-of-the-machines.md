@@ -1,6 +1,6 @@
 # Rise of the Machines
 
-The Future of Programming. How will AI change our jobs?
+The Future of Programming - How AI/ML will change our lives
 
 A panel discussion
 
