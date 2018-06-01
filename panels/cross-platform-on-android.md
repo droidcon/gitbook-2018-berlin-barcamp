@@ -18,8 +18,8 @@ members:
 
 * Andy Dyer, Zalando
 * Eugenio Marletti, Clue
-* Miriam Busch, Karlmarx Berlin
+* Miriam Busch, Karlmax Berlin
 * Kevin Galligan, Touchlabs
-* \(and more to be annouced\)
+* Said Tahsin Dane, Wayfair
 * YOU as everybody is invite to take a chair in rounds
 
