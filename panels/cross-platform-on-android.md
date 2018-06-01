@@ -2,7 +2,7 @@
 description: 'Cross Platform on Android: Flutter vs React Native vs Kotlin Native'
 ---
 
-# Cross Platform on Android
+# Cross Platform on Android: When and how?
 
 ## A fishbowl discussion
 
@@ -20,6 +20,6 @@ members:
 * Eugenio Marletti, Clue
 * Miriam Busch, Karlmarx Berlin
 * Kevin Galligan, Touchlabs
-* \(and more to be annouced\)
+* Said Tahsin Dane, Wayfair
 * YOU as everybody is invite to take a chair in rounds
 
