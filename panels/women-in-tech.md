@@ -17,7 +17,7 @@ employee.
 
 Participants
 * Annyce Davis, Off Grid Electric
-* Lara Carretero, Babbel 
+* Lara Martín, Babbel 
 * Kevin McDonagh, Novoda
 * Vivien Dollinger, ObjectBox_io
 * Anita Singh, Winnie
