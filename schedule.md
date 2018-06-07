@@ -8,7 +8,7 @@ description: Schedule of Day One - 25th June 2018
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 09:00 | Registrierung | Registrierung | Registrierung | Registrierung |
 | 10:00 | Welcome and Session Planning | Welcome and Session Planning | Welcome and Session Planning | Welcome and Session Planning |
-| 10:30 | Speed Dating | Speed Dating | Speed Dating | Speed Dating |
+| 10:30 | Speed Networking | Speed Networking | Speed Networking | Speed Networking |
 | 11:00 |  |  |  |  |
 | 11:40 |  |  |  |  |
 | 12:15 | Panel RX |  |  |  |
