@@ -8,6 +8,7 @@
 ## Panels
 
 * [Rx Must Die](panels/rx-must-die.md)
+* [Women in Tech](panels/women-in-tech.md)
 * [Cross Platform on Android](panels/cross-platform-on-android.md)
 * [Rise of the Machines](panels/rise-of-the-machines.md)
 
