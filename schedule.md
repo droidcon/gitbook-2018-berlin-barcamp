@@ -14,9 +14,9 @@ description: Schedule of Day One - 25th June 2018
 | 12:15 | Panel RX |  |  |  |
 | 13:00 | Lunch | Lunch | Lunch | Lunch |
 | 14:00 | Discussion X-Platform |  |  |  |
-| 15:00 |  |  |  |  |
-| 15:30 | Coffee break | Coffee break | Coffee break | Coffee break |
-| 16:00 | Panel AI |  |  |  |
+| 15:00 | Panel Women in Tech |  |  |  |
+| 15:45 | Coffee break | Coffee break | Coffee break | Coffee break |
+| 16:15 | Panel AI |  |  |  |
 | 17:00 |  |  |  |  |
 | 17:45 | Closing Session | Closing Session | Closing Session | Closing Session |
 
