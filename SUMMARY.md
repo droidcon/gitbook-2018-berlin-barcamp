@@ -19,6 +19,7 @@
 * [Impact of Google's Policies](session-ideas/impact-of-googles-policies.md)
 * [GDPR: The Aftermath Experiences](session-ideas/GDPR.md)
 * [Androids Play Mario Kart Together](session-ideas/Mario-Kart.md)
+* [Navigation Clean](session-ideas/navigation-clean.md)
 
 ## Workshops
 
