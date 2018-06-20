@@ -17,7 +17,6 @@
 * [Session Ideas](session-ideas/session-ideas.md)
 * [Unresolved Issues in AOSP](session-ideas/unresolved-issues-in-aosp.md)
 * [Impact of Google's Policies](session-ideas/impact-of-googles-policies.md)
-* [GDPR: The Aftermath Experiences](session-ideas/GDPR.md)
 * [Androids Play Mario Kart Together](session-ideas/Mario-Kart.md)
 
 ## Workshops
