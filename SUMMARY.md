@@ -18,6 +18,7 @@
 * [Unresolved Issues in AOSP](session-ideas/unresolved-issues-in-aosp.md)
 * [Impact of Google's Policies](session-ideas/impact-of-googles-policies.md)
 * [Androids Play Mario Kart Together](session-ideas/Mario-Kart.md)
+* [Navigation Clean](session-ideas/navigation-clean.md)
 
 ## Workshops
 
