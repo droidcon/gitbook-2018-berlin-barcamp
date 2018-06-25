@@ -15,7 +15,7 @@ description: Schedule of Day One - 25th June 2018
 | 12:50 | Panel RX \(cont.\) | [Accessibility](session-ideas/accessibility.md) | --- | --- |
 | 13:10 | Lunch | Lunch | Lunch | Lunch |
 | 14:00 | [TDD on Android](session-ideas/tdd-in-android.md) | [Discussion X-Platform](panels/cross-platform-on-android.md) | --- | --- |
-| 14:30 | [Kotlin Problems](session-ideas/kotlin-problem.md) | Discussion X-Platform | --- | --- |
+| 14:30 | [TDD on Android (cont.)](session-ideas/kotlin-problem.md) | Discussion X-Platform | Kotlin Problems | --- |
 | 15:00 | [Panel Women in Tech](panels/women-in-tech.md) | [Impact on Google Policies](session-ideas/impact-of-googles-policies.md) | [Fun in Enterprise apps](session-ideas/fun-in-enterprise-apps.md) | --- |
 | 15:30 | Panel Women in Tech \(cont.\) | [Work Together Discussion](session-ideas/work-together.md) | --- | [Android Community Platform](session-ideas/android-community-platform.md) |
 | 15:50 | Coffee break | Coffee break | Coffee break | Coffee break |
