@@ -33,7 +33,7 @@
 * [Paging like a Pro](session-ideas/paging-like-a-pro.md)
 * [TDD in Android](session-ideas/tdd-in-android.md)
 * [Work together](session-ideas/work-together.md)
-* [Fun in Enterprise apps](session-ideas/fun-enterprise.md)
+* [Fun in Enterprise apps](session-ideas/fun-in-enterprise-apps.md)
 
 ## Workshops
 

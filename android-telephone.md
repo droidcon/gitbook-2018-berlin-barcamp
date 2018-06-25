@@ -1,9 +1,3 @@
----
-description: >-
-  Give 15 minutes at the Google Developer Groups booth and get back an living
-  Android app.
----
-
 # Android Telephone
 
 Give 15 minutes at the Google Developer Groups booth and get back an living Android app.
