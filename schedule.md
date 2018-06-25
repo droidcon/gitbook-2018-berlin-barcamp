@@ -20,6 +20,6 @@ description: Schedule of Day One - 25th June 2018
 | 15:30 | Panel Women in Tech (cont.) | Session | Session | Session |
 | 15:50 | Coffee break | Coffee break | Coffee break | Coffee break |
 | 16:20 | Panel AI | Session | Session | Mario Kart Tournament  |
-| 16:50 | Panel AI (cont.)| Session | Session | Mario Kart Tournament  |
+| 16:50 | Panel AI (cont.)| Session | Session | Mario Kart Tournament (cont.) |
 | 17:20 | Closing Session | Closing Session | Closing Session | Closing Session |
 
