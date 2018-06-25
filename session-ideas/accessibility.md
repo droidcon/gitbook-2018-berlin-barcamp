@@ -1,5 +1,2 @@
-# Accessibilty
+# Accessibility
 
-Mitchell
-
-Discussion about accessibility
