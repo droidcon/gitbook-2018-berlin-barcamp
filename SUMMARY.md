@@ -19,7 +19,10 @@
 * [Impact of Google's Policies](session-ideas/impact-of-googles-policies.md)
 * [Androids Play Mario Kart Together](session-ideas/Mario-Kart.md)
 * [Navigation Clean](session-ideas/navigation-clean.md)
-* [Android Community Platform](community-platform-workshop.md)
+* [Android Community Platform](session-ideas/community-platform-workshop.md)
+* [AI / Machine Learning](session-ideas/ai.md)
+* [Swagger API](session-ideas/swagger.md)
+* [AR in Android](session-ideas/ar.md)
 
 ## Workshops
 
