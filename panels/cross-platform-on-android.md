@@ -2,7 +2,7 @@
 description: 'Cross Platform on Android: Flutter vs React Native vs Kotlin Native'
 ---
 
-# Cross Platform on Android: When and how?
+# Cross Platform on Android
 
 ## A fishbowl discussion
 

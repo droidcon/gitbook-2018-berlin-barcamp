@@ -17,12 +17,13 @@
 * [Session Ideas](session-ideas/session-ideas.md)
 * [Unresolved Issues in AOSP](session-ideas/unresolved-issues-in-aosp.md)
 * [Impact of Google's Policies](session-ideas/impact-of-googles-policies.md)
-* [Androids Play Mario Kart Together](session-ideas/Mario-Kart.md)
+* [Androids Play Mario Kart Together](session-ideas/androids-play-mario-kart-together.md)
 * [Navigation Clean](session-ideas/navigation-clean.md)
-* [Android Community Platform](session-ideas/community-platform-workshop.md)
-* [AI / Machine Learning](session-ideas/ai.md)
-* [Swagger API](session-ideas/swagger.md)
-* [AR in Android](session-ideas/ar.md)
+* [Android Community Platform](session-ideas/android-community-platform.md)
+* [AI / Machine Learning](session-ideas/ai-machine-learning.md)
+* [Swagger API](session-ideas/swagger-api.md)
+* [AR in Android](session-ideas/ar-in-android.md)
+* [React Native](session-ideas/react-native.md)
 
 ## Workshops
 

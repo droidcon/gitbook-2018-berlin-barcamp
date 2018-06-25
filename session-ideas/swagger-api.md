@@ -1,4 +1,4 @@
-# Swagger - API integration
+# Swagger API
 
 Mateuz
 
